@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url>
+<loc>https://thewebgraph.com/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/our-services/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/our-product/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/contact-us/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/request-quote/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/net-line-host/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/wdg/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/cdn-cgi/l/email-protection</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/about-us/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/privacy-policy-2/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+<url>
+<loc>https://thewebgraph.com/terms-and-conditions/</loc>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+   <lastmod>2106-02-07T07:28:15+01:00</lastmod>
+</url>
+</urlset>
